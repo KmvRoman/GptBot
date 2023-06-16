@@ -1,0 +1,2 @@
+class UserNotFollowed(Exception):
+    pass

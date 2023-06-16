@@ -1,0 +1,13 @@
+tg_bot:
+  token: token
+  use_redis: False
+
+database:
+  user: user
+  password: password
+  db_name: chatgpt
+  host: 127.0.0.1
+
+openai:
+  key: openaikey
+  chat_completion_url: https://api.openai.com/v1/chat/completions
